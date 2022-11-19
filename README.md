@@ -1,6 +1,6 @@
 ![logo](https://github.com/shailendra043/shailendra043/blob/main/I%20Am%20Devloper%20shailendra%20sahu.....png)
 <h1 align="center">Hi 👋, I'm SHAILENDRA KUMAR SAHU</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/@shailen66521447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shailen66521447" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shailendra-kumar-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailendra-kumar-sahu" height="30" width="40" /></a>
 <a href="https://kaggle.com/shailendra043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shailendra043" height="30" width="40" /></a>
-<a href="https://instagram.com/shailendraai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailendraai" height="30" width="40" /></a>
+<a href="https://instagram.com/shailendrasahuai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailendraai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shailendrasahu51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shailendrasahu51" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shailendrakumar9519842594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailendrakumar9519842594" height="30" width="40" /></a>
 </p>
