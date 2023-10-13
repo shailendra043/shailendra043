@@ -1,4 +1,4 @@
-![logo](https://github.com/shailendra043/shailendra043/blob/main/I%20Am%20Devloper%20shailendra%20sahu.....png)
+![logo]()
 <h1 align="center">Hi 👋, I'm SHAILENDRA KUMAR SAHU</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
