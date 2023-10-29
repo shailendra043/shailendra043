@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&locale=en" alt="shailendra043" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&" alt="shailendra043" /></p>
+
+<a href="https://github.com/shailendra043/shailendra043/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shailendra043/shailendra043" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
