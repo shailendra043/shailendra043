@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shailendra043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shailendra043" height="30" width="40" /></a>
+<a href="https://twitter.com/@shailen66521447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 <a href="https://twitter.com/@shailen66521447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shailen66521447" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shailendrakumarsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailendra-kumar-sahu" height="30" width="40" /></a>
 <a href="https://kaggle.com/shailendra043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shailendra043" height="30" width="40" /></a>
