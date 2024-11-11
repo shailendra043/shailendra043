@@ -26,17 +26,44 @@
 <a href="https://www.leetcode.com/shailendrakumar9519842594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailendrakumar9519842594" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# GitHub Analytics 📊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailendra043&show_icons=true&locale=en&layout=compact" alt="shailendra043" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=shailendra043&color=blue) ![Followers](https://img.shields.io/github/followers/shailendra043?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/shailendra043?label=Stars&style=social)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&locale=en" alt="shailendra043" /></p>
+## Overview
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=dark&hide_border=true)](https://github.com/shailendra043)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/shailendra043)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&" alt="shailendra043" /></p>
+## Contributions in the Last Year 📈
+![Contributions](https://activity-graph.herokuapp.com/graph?username=shailendra043&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true)
 
-<a href="https://github.com/shailendra043/shailendra043/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shailendra043/shailendra043" />
-</a>
+## Languages and Tools 🛠️
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/shailendra043)
 
-Made with [contrib.rocks](https://contrib.rocks).
+
+## Stats Summary 🌟
+- **Total Stars**: ![GitHub Stars](https://img.shields.io/github/stars/shailendra043?color=yellow&style=flat-square)
+- **Total Commits**: 3.0k+
+- **Total PRs**: 167+
+- **Total Issues**: 652+
+- **Repositories Contributed to**: 132+
+- **Public Repositories**: 73
+
+---
+
+
+## Connect with Me 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra043)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### ✨ Keep Coding and Sharing Knowledge!
+"Always eager to learn, build, and make a difference through code."
+
+---
+
+*These sections will dynamically pull data from GitHub, providing a visual snapshot of your activity, achievements, and projects to impress visitors.*
+
+
