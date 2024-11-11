@@ -34,9 +34,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=dark&hide_border=true)](https://github.com/shailendra043)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/shailendra043)
 
-## Contributions in the Last Year 📈
-![Contributions](https://activity-graph.herokuapp.com/graph?username=shailendra043&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true)
-
 ## Languages and Tools 🛠️
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/shailendra043)
 
