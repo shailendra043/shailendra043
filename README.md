@@ -53,8 +53,6 @@ I am a passionate engineer from **India**, currently optimizing algorithms and d
 
 ---
 
----
-
 ## 🌳 Skill Progression Tree
 
 ```mermaid
@@ -105,15 +103,26 @@ graph TD;
 
 ---
 
-## � Holodeck Metrics (Telemetry)
-
-| <br><b>📊 GitHub Activity</b><br><br> | <br><b>🏆 Achievements</b><br><br> |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&bg_color=0d1117" alt="Shailendra's Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=transparent&hide_border=true&currStreakLabel=00d9ff&card_background=0d1117" alt="Streak" width="400"/> |
+## 🏆 Trophy Room (Achievements)
 
 <div align="center">
-  <h3>💻 Language Frequency</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shailendra043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Shailendra's Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 RPG Stats (Telemetry)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shailendra's Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shailendra's Streak" height="180"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
