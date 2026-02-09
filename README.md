@@ -116,13 +116,13 @@ graph TD;
 ## 📊 RPG Stats (Telemetry)
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shailendra043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shailendra's Stats" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shailendra043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shailendra's Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shailendra's Streak" height="180"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
