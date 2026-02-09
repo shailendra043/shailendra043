@@ -53,6 +53,30 @@ I am a passionate engineer from **India**, currently optimizing algorithms and d
 
 ---
 
+---
+
+## 🌳 Skill Progression Tree
+
+```mermaid
+graph TD;
+    A[<b>AI Engineer</b>] -->|Mastery| B(Python);
+    A -->|Mastery| C(C++);
+    B --> D{Data Science};
+    C --> E{High Performance};
+    D --> F[Pandas/NumPy];
+    D --> G[TensorFlow/Keras];
+    E --> H[Low Latency Systems];
+    E --> I[Game/Sim Engines];
+    
+    style A fill:#ff0055,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#00aaff,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#00aaff,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#aa00ff,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#aa00ff,stroke:#333,stroke-width:2px,color:#fff
+```
+
+---
+
 ## 🚀 Deployed Artifacts (Projects)
 
 ### ⚡ **Low Latency Stock Order Matching Engine**
@@ -81,15 +105,15 @@ I am a passionate engineer from **India**, currently optimizing algorithms and d
 
 ---
 
-## 📊 Telemetry (GitHub Stats)
+## � Holodeck Metrics (Telemetry)
+
+| <br><b>📊 GitHub Activity</b><br><br> | <br><b>🏆 Achievements</b><br><br> |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&bg_color=0d1117" alt="Shailendra's Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=transparent&hide_border=true&currStreakLabel=00d9ff&card_background=0d1117" alt="Streak" width="400"/> |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shailendra043&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Shailendra's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendra043&theme=radical&hide_border=true&bg_color=0d1117" alt="Shailendra's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <h3>💻 Language Frequency</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra043&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
