@@ -97,19 +97,18 @@ graph TD;
 | Class | Modules |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **DevOps/Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Core** | Data Structures, Algorithms, REST APIs, Object-Oriented Programming |
 
 ---
 
-## 🏆 Trophy Room (Achievements)
+## � Awards (Mission Honors)
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shailendra043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Shailendra's Trophies" />
-  </a>
-</div>
+- 🏆 **Prompt Engineering Programming with OpenAI** - *Columbia University*
+- 🎖️ **Building a Machine Learning Ready Organization** - *AWS*
+- 🎗️ **Python Essentials** - *Cisco Networking Academy*
+- 📜 **Practical Python for AI Coding** - *Coursera*
 
 <br/>
 
